@@ -4,4 +4,4 @@ To download and access the AR software game from Dropbox download the APK folder
 
 Make sure all 3 APK files, not folders are on your android device to play said software and game.
 
-Note: Code in project is C#
+Code in project is C#
