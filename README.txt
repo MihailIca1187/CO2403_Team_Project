@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6872fcfea3ef622a4f1260826842a11ce9cf0f01d096732d6bc467b281b30a2e
-size 369
+Required APK files also avaliable on drop box link.
+
+To download and access the AR software game from Dropbox download the APK folders from the drop box link - https://www.dropbox.com/sh/sgfqfkff8qi77si/AABII7pqg3LyKDxpo59LMxkUa?dl=0
+
+Make sure all 3 APK files, not folders are on your android device to play said software and game.
